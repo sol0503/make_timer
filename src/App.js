@@ -1,5 +1,5 @@
 import "./App.css";
-import Clock from "./Clock";
+import Clock from "./Components/Clock";
 
 function App() {
   return <Clock />;

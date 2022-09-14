@@ -1,5 +1,5 @@
 import React from "react";
-import useClock from "./useClock";
+import useClock from "../Hooks/useClock";
 
 const Clock = () => {
   const { saw }= useClock();
